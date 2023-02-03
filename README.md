@@ -10,7 +10,7 @@ The logic is as follows:
 
 1. Import the json from mock
 2. Find duplicates of objects and fields then scenes and views.
-    Duplicates are found by find the md5 hash without _id and comparing 
+    Duplicates are found by finding the md5 hash without _id and comparing 
     it to a map. If duplicate found then delete. 
 3. Write to a new file called clean_application.json
 
