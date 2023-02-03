@@ -1,0 +1,12 @@
+{
+    "type" : "paragraph_text",
+    "required" : false,
+    "unique" : false,
+    "user" : false,
+    "conditional" : false,
+    "rules" : [],
+    "validation" : [],
+    "_id" : "61e869d51137bc002545fee1",
+    "name" : "Description",
+    "key" : "field_4"
+}
